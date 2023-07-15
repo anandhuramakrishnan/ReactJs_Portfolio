@@ -1,0 +1,13 @@
+.rightdiv {
+    height: 550px;
+    width: 75%;
+    
+    background-image: url('background.avif');
+    
+  }
+  .heading{
+    font-size: 50px;
+    color: antiquewhite;
+    padding-left: 50px;
+    padding-top: 30px;
+  }
