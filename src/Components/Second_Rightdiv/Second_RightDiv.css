@@ -1,0 +1,138 @@
+.second_rightdiv{
+    width: 75%;
+    height: 700px;
+    background-color: #0f0635;
+    margin-top: 1px;
+    margin-left: 0.8px;
+    box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.3);
+}
+
+
+.skill-1{
+    margin-TOP:80px;
+    margin-left: 150PX;
+    color: burlywood;
+   
+    
+}
+.bar-1{
+    width: 70%;
+    height: 15px;
+    background-color:rgb(190, 190, 190);
+    border-radius: 10px;
+    /* color: antiquewhite; */
+}
+.bar-1-rating{
+width:55%;
+height: 100%;
+border-radius: 10px;
+background-color: rgb(0, 174, 90);
+}
+
+
+
+.skill-2{
+    margin-TOP:30px;
+    margin-left: 150PX;
+    color: burlywood;
+   
+    
+}
+.bar-2{
+    width: 70%;
+    height: 15px;
+    background-color:rgb(190, 190, 190);
+    border-radius: 10px;
+    /* color: antiquewhite; */
+}
+.bar-2-rating{
+width:75%;
+height: 100%;
+border-radius: 10px;
+background-color: rgb(0, 174, 90);
+}
+
+
+.skill-3{
+    margin-TOP:30px;
+    margin-left: 150PX;
+    color: burlywood;
+   
+    
+}
+.bar-3{
+    width: 70%;
+    height: 15px;
+    background-color:rgb(190, 190, 190);
+    border-radius: 10px;
+    /* color: antiquewhite; */
+}
+.bar-3-rating{
+width:70%;
+height: 100%;
+border-radius: 10px;
+background-color: rgb(0, 174, 90);
+}
+
+.skill-4{
+    margin-TOP:30px;
+    margin-left: 150PX;
+    color: burlywood;
+   
+    
+}
+.bar-4{
+    width: 70%;
+    height: 15px;
+    border-radius: 10px;
+    background-color: rgb(190, 190, 190);
+    /* color: antiquewhite; */
+}
+.bar-4-rating{
+width:55%;
+height: 100%;
+border-radius: 10px;
+background-color: rgb(0, 174, 90);
+}
+
+.skill-5{
+    margin-TOP:30px;
+    margin-left: 150PX;
+    color: burlywood;
+   
+    
+}
+.bar-5{
+    width: 70%;
+    height: 15px;
+    border-radius: 10px;
+    background-color: rgb(190, 190, 190);
+    /* color: antiquewhite; */
+}
+.bar-5-rating{
+width:45%;
+height: 100%;
+border-radius: 10px;
+background-color: rgb(0, 174, 90);
+}
+
+.skill-6{
+    margin-TOP:30px;
+    margin-left: 150PX;
+    color: burlywood;
+   
+    
+}
+.bar-6{
+    width: 70%;
+    height: 15px;
+    border-radius: 10px;
+    background-color: rgb(190, 190, 190);
+    /* color: antiquewhite; */
+}
+.bar-6-rating{
+width:45%;
+height: 100%;
+border-radius: 10px;
+background-color: rgb(0, 174, 90);
+}
