@@ -6,6 +6,7 @@ import RightDiv from "./Components/Rightdiv/RightDiv";
 import Second_LeftDiv from "./Components/Second_LeftDiv/Second_LeftDiv";
 import Second_RightDiv from "./Components/Second_Rightdiv/Second_RightDiv";
 import Footer from "./Components/Footer/Footer";
+import ThirdDiv from "./Components/ThirdDiv/ThirdDiv";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Second_LeftDiv />
         <Second_RightDiv />
       </div>
+      <ThirdDiv/>
       <Footer/>
     </div>
   );

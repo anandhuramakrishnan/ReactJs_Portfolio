@@ -13,9 +13,9 @@ const Footer = () => {
   <div class="footer-social">
     <h3>Follow Me</h3>
     <ul>
-      <li><a href="#"><FaGithub/>Github</a></li>
-      <li><a href="#"><FaInstagram/> Instagram</a></li>
-      <li><a href="#"><FaLinkedin/>Linkedin</a></li>
+      <li><a href="https://github.com/anandhuramakrishnan"><FaGithub/>Github</a></li>
+      <li><a href="https://www.instagram.com/__._dmitri_.__/"><FaInstagram/> Instagram</a></li>
+      <li><a href="https://www.linkedin.com/in/anandhu-rk/"><FaLinkedin/>Linkedin</a></li>
     </ul>
   </div>
 </footer>
