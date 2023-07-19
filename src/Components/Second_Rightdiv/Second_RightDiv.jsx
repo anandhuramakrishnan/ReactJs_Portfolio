@@ -1,23 +1,15 @@
 import React from "react";
 import "../Second_Rightdiv/Second_RightDiv.css";
-// import Lottie from 'lottie-react'
-// import animationData from '../Second_Rightdiv/animation_lk842s8d.json'
 
 const Second_RightDiv = () => {
   return (
 
 
-
     <div className="second_rightdiv">
-
-{/* <div className="animation">
-  <Lottie animationData={animationData} className="line-animation"/>
-  </div> */}
-
-
+<h2 className="head"> SKILLS </h2>
 
       <div className="skill-1">
-        <p >C :</p>{" "}
+        <p>C :</p>{" "}
         <div className="bar-1">
           {" "}
           <div className="bar-1-rating"></div>
@@ -25,7 +17,7 @@ const Second_RightDiv = () => {
       </div>
 
       <div className="skill-2">
-        <p >HTML:</p>{" "}
+        <p>HTML:</p>{" "}
         <div className="bar-2">
           {" "}
           <div className="bar-2-rating"></div>
@@ -69,8 +61,6 @@ const Second_RightDiv = () => {
           <div className="bar-6-rating"></div>
         </div>{" "}
       </div>
-
-
     </div>
   );
 };

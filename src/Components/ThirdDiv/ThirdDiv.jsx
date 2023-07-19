@@ -1,11 +1,20 @@
-import React from 'react'
-import '../ThirdDiv/ThirdDiv.css'
+import React from "react";
+import "../ThirdDiv/ThirdDiv.css";
 const ThirdDiv = () => {
   return (
-    <div className='thirddiv'>
-      
-    </div>
-  )
-}
+    <div className="thirddiv">
+      <p className="head3">PROJECTS </p>
 
-export default ThirdDiv
+      <div className="cards">
+      <div className="card1"></div>
+        <div className="card2"></div>
+        <div className="card3"></div>
+        <div className="card4"></div>
+      </div>
+       
+     
+    </div>
+  );
+};
+
+export default ThirdDiv;
