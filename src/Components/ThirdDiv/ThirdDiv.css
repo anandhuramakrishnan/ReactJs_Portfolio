@@ -1,5 +1,5 @@
 .thirddiv{
-    height: 600px;
+    height: 800px;
     width: 100%;
     background-color:#0f0635;
     padding-top: 0;
@@ -17,37 +17,83 @@
 } 
 .cards{
     margin-top: 100px;
-    height: 350px;
+    height: 330px;
     width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 
 }
+.project_names{
+    height: 40px;
+    width: 100%;
+    
+    margin-top: -100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
+.name1{
+    color: rgb(255, 200, 129);
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+   
+}
+.name2{
+    color: rgb(255, 200, 129);;
+    display: flex;
+    flex-direction: row;
+   
+}
+.name3{
+    color: rgb(255, 200, 129);;
+    display: flex;
+    flex-direction: row;
+   
+}
+.name4{
+    color: rgb(255, 200, 129);;
+    display: flex;
+    flex-direction: row;
+   margin-right: 150px;
+}
 .card1{
     height: 200px;
     width: 200px;
-    background-color: antiquewhite;
+    background-color: blanchedalmond;
     margin-left: 150px;
 }
 .card2{
     height: 200px;
     width: 200px;
-    background-color: antiquewhite;
+    background-color: blanchedalmond;
 
 
 }
 .card3{
     height: 200px;
     width: 200px;
-    background-color: antiquewhite;
+    background-color: blanchedalmond;
    
 }
 .card4{
     height: 200px;
     width: 200px;
-    background-color: antiquewhite;
+    background-color:blanchedalmond;
     margin-right: 150px;
 
+}
+.textfield{
+    width: 100%;
+    height: 10px;
+    color:rgb(255, 200, 129);
+    margin-top: 70px;
+    padding-left: 150px;
+    font-size: large;
+    font-family: 'Rajdhani', sans-serif;
+}
+#teaxtarea{
+    width: 400px;
 }
